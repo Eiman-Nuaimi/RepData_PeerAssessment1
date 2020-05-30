@@ -27,6 +27,7 @@ as.integer(mean(sumTable$Steps))
 as.integer(median(sumTable$Steps))
 ```
 
+
 ## What is the average daily activity pattern?
 
 ```{r}
